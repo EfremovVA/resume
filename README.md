@@ -1,5 +1,5 @@
 # Моё резюме
 
-## Результаь вы можете посмотреть тут 
+## Результат вы можете посмотреть тут 
 
-[Моя первая рабоат нп HTML&CSS](https://efremovva.github.io/resume/)
+[Моя первая работа на HTML&CSS](https://efremovva.github.io/resume/)
